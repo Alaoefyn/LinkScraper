@@ -11,6 +11,9 @@ A link scraper with can be use at many purposes written in python.
 
 5- Added both the first version that scrapes all links from a site and only scrapes and regex additions from a site.
 
+6- QSS files for easier GUI elements for PyQt5. Both dark and white modes.
+
+
 ## TODO
 
 - GUI impr.
